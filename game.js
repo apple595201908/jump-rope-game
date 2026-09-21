@@ -7,8 +7,8 @@
   const JUMP_HEIGHT = 126;
   const IDEAL_LEAD = JUMP_DURATION / 2;
   const CLEARANCE = 43;
-  const STORAGE_BEST = "fangyi-rope-best-v1";
-  const STORAGE_SOUND = "fangyi-rope-sound-v1";
+  const STORAGE_BEST = "peipei-rope-best-v1";
+  const STORAGE_SOUND = "peipei-rope-sound-v1";
   const TIMINGS = ["GOD!!", "PERFECT!!", "GREAT!", "NICE!", "GOOD", "KUTAR", "POOR"];
 
   const game = document.querySelector("#game");
@@ -350,13 +350,13 @@
       "剛剛差點以為你會破紀錄。",
       "繩子開始注意到你了。",
       "差一點，其實差很多。",
-      "眼鏡：我想下班。",
+      "佩佩：我想下班。",
       "你跳的不是繩，是尊嚴。"
     ],
     high: [
       "好啦，這次真的有點強。",
       "繩子剛剛有緊張一下。",
-      "眼鏡都快跟不上你了。",
+      "繩子都快跟不上你了。",
       "你的鞋子都比你想逃。",
       "繩子表示：就這？",
       "差一點就有那麼一點厲害了。"
